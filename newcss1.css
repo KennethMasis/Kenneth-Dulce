@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 jul. 2024, 10:40:18
+    Author     : Estudiante
+*/
+
+body {
+    background-color: #faf3e0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+.header {
+    background-color: #d9c3a1;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+.header h1 {
+    margin: 0;
+    font-size: 4.5em;
+    color: #33211D;
+    font-family: Bebas neue;
+}
+.header img {
+    width: 200px;
+    height: auto;
+}
+.content {
+    padding: 20px;
+    text-align: center;
+}
+.menu {
+    margin-top: 20px;
+}
+.menu a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #DA9F5B;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.menu a:hover {
+    background-color: #c38847;
+}
+.footer {
+    background-color: #d9c3a1;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
